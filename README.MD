@@ -1,7 +1,7 @@
 ## 👨‍💻 Author
 
 **KUMUD RATHI**
-  2301010162
+  2301010161
 B.Tech Computer Science Engineering
 
 K.R. Mangalam University
